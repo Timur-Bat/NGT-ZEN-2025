@@ -1,5 +1,7 @@
 .menu {
   display: none;
 }
-
+.menu.active {
+  display: block;
+}
 /* .menu__item {} */
