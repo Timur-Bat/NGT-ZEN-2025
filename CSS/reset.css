@@ -19,13 +19,13 @@ button {
   font-size: inherit;
   background: none;
   border: none;
+  font-family: inherit;
 }
 
 select {
   border: none;
   appearance: none;
   background: none;
-
 }
 
 h1,
