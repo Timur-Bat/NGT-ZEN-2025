@@ -40,9 +40,8 @@
   overflow: hidden;
 }
 
-.download image-block img{
+.download image-block img {
   display: block;
   height: 100%;
   object-fit: cover;
 }
-
