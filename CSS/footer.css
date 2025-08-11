@@ -18,11 +18,9 @@
   /* border: 2px dashed green; */
 }
 
-.footer__info {
-  /* border: 2px dashed aqua; */
-}
+/* .footer__info {} */
 
-.footer__logo {}
+/* .footer__logo {} */
 
 .footer__copy {
   font-size: 12px;
@@ -40,5 +38,3 @@
   height: 46px;
   margin-top: 10px;
 }
-
-
